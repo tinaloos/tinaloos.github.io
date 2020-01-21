@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Tina B. Loos",
+    "name": "Tina Loos",
     "label": "Student",
     "picture": "https://tinaloos.github.io/images/Tina's Profile Pic.png",
     "email": "tinaloos@hawaii.edu",
@@ -67,7 +67,6 @@
         "WindowsOS",
         "LaTex",
         "Eclipse",
-        "TI LaunchPad"
       ]
     }
   ],
@@ -85,69 +84,70 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH Manoa ICS Department",
+      "position": "Learning Assistant & Assisting Teaching Assistant for Computer Science",
+      "website": "https://natsci.manoa.hawaii.edu/learningemporium.php",
+      "startDate": "2019-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Teach lessons and help students learn concepts during recitation lab sessions",
+        "Tutor students taking computer science courses at UH Mānoa during"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "UH Manoa Office of Admissions",
+      "position": "New Rainbow Warrior Orientation Leader",
+      "website": "https://manoa.hawaii.edu/welinamanoa/new-rainbow-warrior-orientation/",
+      "startDate": "2019-07-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Tour new students around campus while informing them of the opportunities available",
+        "Facilitate small group activities to foster education and friendship",
+        "Assist in running the @newrainbowwarriororientation Instagram page"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
+        "",
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "",
+      "date": "",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
