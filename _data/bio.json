@@ -78,23 +78,21 @@
       "startDate": "2018-09-01",
       "endDate": "Present",
       "gpa": "4.0",
-      "courses": ["ICS 311: Algorithms",
-                  "ICS 390: Computing Ethics for Lab Assistants",
-                  "ICS 314: Software Engineering I (currently enrolled)",
+      "courses": [
       ]
     }
   ],
   "work": [
+    {
       "company": "UH Manoa ICS Department",
       "position": "Learning Assistant & Assisting Teaching Assistant for Computer Science",
       "website": "https://natsci.manoa.hawaii.edu/learningemporium.php",
       "startDate": "2019-08-01",
       "endDate": "Present",
       "summary": "",
-      "highlights":
-        "Teach lessons during recitation lab sessions (PowerPoint)",
-        "Tutor students taking computer science courses at UH Mānoa"
-        "Hold office hours to help students learn concepts"
+      "highlights": [
+        "Teach lessons and help students learn concepts during recitation lab sessions",
+        "Tutor students taking computer science courses at UH Mānoa during"
       ]
     },
     {
@@ -109,63 +107,62 @@
         "Facilitate small group activities to foster education and friendship",
         "Assist in running the @newrainbowwarriororientation Instagram page"
       ]
-      
     },
     {
       "company": "Patsy T. Mink Center for Business and Leadership",
-      "position": "Website Editor & Graphic Designer",
-      "website": "https://www.mcblhawaii.org/shop-small-hawaii",
-      "startDate": "2018-06-01",
-      "endDate": "2018-08-01",
+      "position": "Graphic Designer & Youth Program Leader",
+      "website": "https://www.mcblhawaii.org/girls-summityouth",
+      "startDate": "2019-07-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Edited websites for the Patsy T. Mink Center for Business and Leadership (Squarespace)",
-        "Co-authored and created an e-book; designed informative notbook pages, flyers, and logos"
-        "Assisted in running various Instagram and Facebook accounts for the company and its affiliates"
+        "Tour new students around campus while informing them of the opportunities available",
+        "Facilitate small group activities to foster education and friendship",
+        "Assist in running the @newrainbowwarriororientation Instagram page"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "YWCA O'ahu",
-      "website": "https://www.mcblhawaii.org/girls-summityouth",
-      "position": "Youth Program Leader",
-      "startDate": "2018-06-01",
-      "endDate": "2018-08-01",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
       "summary": "",
       "highlights": [
-        "Assisted in organizing YWCA's first Girls' Summmit Youth Program'
-        "Taught STEM and served as mentor to middle school girls",
-        "Advocated against child abuse with the Scream. Run. Tell. organization"
+        "",
+        ""
       ]
     },
+    {
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "",
+        "",
+        ""
+      ]
+    }
   ],
   "awards": [
     {
-      "title": "Golden Key Internation Honor Society",
-      "date": "2019",
-      "awarder": "",
+      "title": "",
+      "date": "",
+      "awarder": "State of Hawaii",
       "summary": ""
     },
     {
-      "title": "National Society of Collegiate Scholars",
-      "date": "2019",
+      "title": "",
+      "date": "",
       "awarder": "",
       "summary": ""
-    },
-    {
-      "title": "National Society of Leadership and Success",
-      "date": "2019",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "Miss Teen Waikiki",
-      "date": "2019",
-      "awarder": "",
-      "summary": ""
-    },
-  ]
+    }
+  ],
   "references": [
     {
       "name": "Available upon request",
