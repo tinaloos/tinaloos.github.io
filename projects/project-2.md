@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/srt.png
 title: Scream. Run. Tell. Website Design
-permalink: projects/vacay
+permalink: projects/webDesign
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-21
 labels:
