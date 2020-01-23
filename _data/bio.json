@@ -77,7 +77,7 @@
       "studyType": "B.S.",
       "startDate": "2018-09-01",
       "endDate": "Present",
-      "gpa": "4",
+      "gpa": "4.0",
       "courses": [
         "ICS 311: Algorithms",
         "ICS 314: Software Engineering I (currently enrolled)",
@@ -96,7 +96,7 @@
       "highlights": [
         "$3000 grant recipient (funded by Intel, Northrop Grumman, and Google)",
         "Created and led my AspireIT K-12 Outreach Program to unite girls in STEM and close the gender gap",
-        "Taught computer science to students in grades 5-8 (organized the curriculum, field trips, and guest speakers)"
+        "Taught computer science to students in grades 5-8 (developed lesson plans and budgeted expenses)"
       ]
     },
     {
@@ -171,19 +171,19 @@
     {
       "title": "Golden Key International Honor Society",
       "date": "2019",
-      "awarder": "",
+      "awarder": ""
       "summary": ""
     },
     {
       "title": "National Society of Collegiate Scholars",
       "date": "2019",
-      "awarder": "",
+      "awarder": ""
       "summary": ""
     },
     {
       "title": "National Society of Leadership and Success",
       "date": "2019",
-      "awarder": "",
+      "awarder": ""
       "summary": ""
     },
     {
@@ -195,7 +195,7 @@
      {
       "title": "Miss Teen Waikiki",
       "date": "2019",
-      "awarder": "",
+      "awarder": ""
       "summary": ""
     },
   ],
