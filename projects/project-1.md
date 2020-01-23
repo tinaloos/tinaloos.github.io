@@ -3,7 +3,7 @@ layout: project
 type: project
 image: ncwit.png
 title: IT Girls
-permalink: projects/micromouse
+permalink: projects/ITGirls
 # All dates must be YYYY-MM-DD format!
 date: 2017-09-29
 labels:
