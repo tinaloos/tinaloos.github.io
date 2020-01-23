@@ -66,7 +66,7 @@
         "MacOS",
         "WindowsOS",
         "LaTex",
-        "Eclipse",
+        "Eclipse IDE",
       ]
     }
   ],
@@ -129,8 +129,8 @@
       "company": "Patsy T. Mink Center for Business and Leadership",
       "position": "Website Editor & Graphic Designer",
       "website": "https://www.mcblhawaii.org/shop-small-hawaii",
-      "startDate": "2018-06-01",
-      "endDate": "2018-08-01",
+      "startDate": "Summer 2018",
+      "endDate": "",
       "summary": "",
       "highlights": [
         "Edited websites for the Patsy T. Mink Center for Business and Leadership (Squarespace)",
@@ -144,8 +144,8 @@
       "organization": "YWCA O'ahu",
       "website": "https://www.mcblhawaii.org/girls-summityouth",
       "position": "Youth Program Leader",
-      "startDate": "2018-06-01",
-      "endDate": "2018-08-01",
+      "startDate": "Summer 2018",
+      "endDate": "",
       "summary": "",
       "highlights": [
         "Assisted in organizing YWCA's first Girls' Summmit Youth Program",
@@ -154,11 +154,11 @@
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
+      "organization": "Association for Computing Machinery - UH Manoa",
+      "website": "https://acmanoa.github.io/",
+      "position": "ACI and SWITCH-UHM member",
+      "startDate": "2018",
+      "endDate": "present",
       "summary": "",
       "highlights": [
         "",
@@ -172,19 +172,19 @@
       "title": "Golden Key International Honor Society",
       "date": "2019",
       "awarder": "",
-      "summary": ""
+      "summary": "The world's largest collegiate honor society for graduate and undergraduate students, built on the pillars of academics, leadership, and service."
     },
     {
       "title": "National Society of Collegiate Scholars",
       "date": "2019",
       "awarder": "",
-      "summary": ""
+      "summary": "Honors high achievers and inspires them to live and lead with integrity while transforming the world in a positive way"
     },
     {
       "title": "National Society of Leadership and Success",
       "date": "2019",
       "awarder": "",
-      "summary": ""
+      "summary": "The nation's largest leadership honor society, where top students nominated by their colleges come together to identify and achieve their goals."
     },
     {
       "title": "Dean's List",
@@ -196,7 +196,7 @@
       "title": "Miss Teen Waikiki",
       "date": "2019",
       "awarder": "",
-      "summary": ""
+      "summary": "Pageanty: Spirit of Aloha Award (greatest community service impact); Top Scholar Award"
     },
   ],
   "references": [
