@@ -65,6 +65,7 @@
       "keywords": [
         "MacOS",
         "WindowsOS",
+        "iOS",
         "LaTex",
         "Eclipse IDE",
       ]
@@ -156,18 +157,24 @@
     {
       "organization": "Association for Computing Machinery - UH Manoa",
       "website": "https://acmanoa.github.io/",
-      "position": "ACI and SWITCH-UHM member",
-      "startDate": "2018",
+      "position": "Member",
+      "startDate": "2018-09-01",
       "endDate": "present",
       "summary": "",
       "highlights": [
-        "",
-        "",
+        "SWITCH-UHM: ",
+        "ACI: ",
         ""
       ]
     }
   ],
   "awards": [
+    {
+      "title": "National Honorable Mention for Aspirations in Computing; Hawaii Affiliate Award Winner",
+      "date": "2018; 2017",
+      "awarder": "National Center for Women and Information Technology",
+      "summary": ""
+    },
     {
       "title": "Golden Key International Honor Society",
       "date": "2019",
@@ -175,16 +182,16 @@
       "summary": "The world's largest collegiate honor society for graduate and undergraduate students, built on the pillars of academics, leadership, and service."
     },
     {
-      "title": "National Society of Collegiate Scholars",
-      "date": "2019",
-      "awarder": "",
-      "summary": "Honors high achievers and inspires them to live and lead with integrity while transforming the world in a positive way"
-    },
-    {
       "title": "National Society of Leadership and Success",
       "date": "2019",
       "awarder": "",
       "summary": "The nation's largest leadership honor society, where top students nominated by their colleges come together to identify and achieve their goals."
+    },
+    {
+      "title": "National Society of Collegiate Scholars",
+      "date": "2019",
+      "awarder": "",
+      "summary": "Honors high achievers and inspires them to live and lead with integrity while transforming the world in a positive way"
     },
     {
       "title": "Dean's List",
