@@ -1,28 +1,31 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
+image: ncwit.jpg
+title: IT Girls
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-09-29
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Information Technology
+  - Teaching
+  - Computer Science
+summary: I created and led my AspireIT K-12 Outreach Program, teaching computer science to girls in grades 5-8.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/ncwit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+For my Senior Project in High School, I conducted qualitative research on the applications of artifical intelligence and its ethicality in society. I examined a branch of computer science striving to simulate the intelligence and behavior of humans as it paves goals for machines to understand, analyze, and respond to human action through the eyes of three professionals: two PhDs working in AI and a deep learning programming engineer. The results of interviews show that AI continues to evolve in human achievement tools in aerospace, cyber defense research, healthcare, and disparate data. With this knowledge, I desired to give back to the community by sharing my findings and passion for computer sciece with younger generations, in order to spark their interest in the technological sector. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+As an Aspirations in Computing Award recipient (National Honorable Mention; 2x Hawaii Affiliate Winner), I applied and receieved a grant of $3000 from the National Center for Women and Information Technology to create and implement my AspireIT K-12 Outreach after-school program: IT (Information Technology) Girls. 
+
+I marketed the program utilizing email groups and worked closely with the special programs director, elementary school principal, and robotics team to contract snacks, teaching space, transportation, and STEM materials, including new Vex Robotics kits and Z-Space 3D Virtual Reality Computers. I taught coding, fundamentals of computer science, and computational thinking using the AspireIT curriculum: Computer Science-in-a-Box, Google CS First Projects, Pencil Code, Scratch, Khan Academy and Sphero. I also invited two guest speakers and organized two field trips to Microsoft and Apple Store to conducted experiments, do hours of hands on coding, and show career discovery opportunities. I learned leadership, organization, collaboration and public speaking skills that will be beneficial as I work in teams for computer science projects. I gained knowledge of the  opportunities in information technology while developing confidence and increasing awareness of current social issues.
+
+IT Girls exposed middle school girls to technology in an exciting way that expressed their creativity through programming and learning. They worked towards bridging the gender gap of girls in information technology (IT) through continued class selection in science, technology, engineering, and math. With the developed curriculum, participants engaged in a fun, learning environment focused on the various aspects of computing, ranging from fundamentals of computers to programming. Participants discovered why computer science is an important part of society and how developing skills will empower them to pursue careers in the fields of information technology, computing, and STEM (Science, Technology, Engineering, and Math). Through this, I was motivated to pursue a degree in computer science, to create innovating projects that will positively affect the world. 
+
+
 
 Here is some code that illustrates how we read values from the line sensors:
 
