@@ -29,22 +29,22 @@
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     },
     {
-      "name": "web development",
+      "name": "Web Development",
       "keywords": [
       ]
     },
     {
-      "name": "cyber security",
+      "name": "Cyber Security",
       "keywords": [
       ]
     }
@@ -80,12 +80,25 @@
       "gpa": "4",
       "courses": [
         "ICS 311: Algorithms",
-        "ICS 390: Computing Ethics for Lab Assistants",
         "ICS 314: Software Engineering I (currently enrolled)",
+        "ICS 390: Computing Ethics for Lab Assistants",
       ]
     }
   ],
   "work": [
+    {
+      "company": "National Center for Women and Information Technology",
+      "position": "IT Girls Program Leader & Founder",
+      "website": "https://www.aspirations.org/user/103486",
+      "startDate": "2017-08-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "$3000 grant recipient (funded by Intel, Northrop Grumman, and Google)",
+        "Created and led my AspireIT K-12 Outreach Program to unite girls in STEM and close the gender gap",
+        "Taught computer science to students in grades 5-8 (organized the curriculum, field trips, and guest speakers)"
+      ]
+    },
     {
       "company": "UH Manoa ICS Department",
       "position": "Learning Assistant & Assisting Teaching Assistant for Computer Science",
@@ -173,6 +186,12 @@
       "awarder": "",
       "summary": ""
     },
+    {
+      "title": "Dean's List",
+      "date": "Fall 2018; Spring 2019; Fall 2019",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "GPA: 4.0"
+    }
      {
       "title": "Miss Teen Waikiki",
       "date": "2019",
