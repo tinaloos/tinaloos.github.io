@@ -1,25 +1,22 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/srt.png
+title: Scream. Run. Tell. Website Design
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-07-21
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Graphic Design
+  - Human-Computer Interaction
+  - Squarespace
+summary: A prototype design of a website for a non-profit organization that advocates against child abuse, personalized to the client's desires. 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../srt.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Scream. Run. Tell. is an organization that creates books and organizes workshops to teach children skills needed to protect themselves in times of danger. Through my volunteer work at the YWCA O'ahu, I was asked to re-design a website for the organization, to better reflect their values and personality. The original website design was dark-themed and not colorful enough to reflect the mission of the ogranization. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+During the summer of 2018, I worked with the Founder and CEO of the organization. I was in charge of gathering all of the data and information from the original site, and transfering it over to the new site. The CEO wanted to re-vamp their brand, while keeping true to their history.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+The project helped me learn how to style and implement a web site, using templates that also fostered creativity. The website design was creates using [SqaureSpace](https://www.squarespace.com/), a drag-and-drop platform for website building and hosting. I learned about human-computer interation and the importance of proper web design, so that users can navigate sites with ease and have a positive interation with their devices. 
