@@ -126,7 +126,7 @@
       "position": "Website Editor & Graphic Designer",
       "website": "https://www.mcblhawaii.org/shop-small-hawaii",
       "startDate": "",
-      "endDate": "Summer 2018",
+      "endDate": "2018",
       "summary": "",
       "highlights": [
         "Edited websites for the Patsy T. Mink Center for Business and Leadership (Squarespace)",
@@ -136,6 +136,32 @@
     }
   ],
   "volunteer": [
+    {
+      "organization": "Artificial Intelligence Research Paper",
+      "website": "",
+      "position": "Author",
+      "startDate": "2017-09-01",
+      "endDate": "present",
+      "summary": "",
+      "highlights": [
+        "Conducted qualitative research on the applications of artificial intelligence",
+        "Piloted three interviews with AI experts: professor, researcher, and industry professional",
+        "Working toward the goal of a publishable paper"
+      ]
+    },
+    {
+      "organization": "Association for Computing Machinery - UH Manoa",
+      "website": "https://acmanoa.github.io/",
+      "position": "Member",
+      "startDate": "2018-09-01",
+      "endDate": "present",
+      "summary": "",
+      "highlights": [
+        "SWITCH-UHM: Promote women in IT thorough mentorship, workshops, and awareness",
+        "ACI: attend weekly meetings to develop my understanding of algorithms",
+        ""
+      ]
+    },
     {
       "organization": "YWCA O'ahu",
       "website": "https://www.mcblhawaii.org/girls-summityouth",
@@ -147,19 +173,6 @@
         "Assisted in organizing YWCA's first Girls' Summmit Youth Program",
         "Taught STEM and served as mentor to middle school girls",
         "Advocated against child abuse with the Scream. Run. Tell. organization"
-      ]
-    },
-    {
-      "organization": "Association for Computing Machinery - UH Manoa",
-      "website": "https://acmanoa.github.io/",
-      "position": "Member",
-      "startDate": "2018-09-01",
-      "endDate": "present",
-      "summary": "",
-      "highlights": [
-        "SWITCH-UHM: ",
-        "ACI: ",
-        ""
       ]
     }
   ],
