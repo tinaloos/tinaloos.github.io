@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ncwit.png
+image: images/ncwit.png
 title: IT Girls
 permalink: projects/ITGirls
 # All dates must be YYYY-MM-DD format!
