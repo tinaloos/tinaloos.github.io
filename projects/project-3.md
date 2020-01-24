@@ -36,8 +36,6 @@ If your turtle gets hits (comes into contact with) one of the moving mushrooms, 
 If you move your turtle to the right-end of the screen without getting hit by one of the mushrooms, you win the game.
 Exit the game and run the program to play again.       
 
-</pre>
-
 <hr>
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
