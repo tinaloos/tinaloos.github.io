@@ -10,7 +10,7 @@ labels:
   - Java
 ---
 
-<img class="ui tiny right spaced image" src="../js.png">
+<img class="ui tiny right spaced image" src="../images/js.png">
 
 ## Java vs JavaScript
 
