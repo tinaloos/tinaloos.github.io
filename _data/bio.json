@@ -6,7 +6,7 @@
     "email": "tinaloos@hawaii.edu",
     "phone": "",
     "website": "https://tinaloos.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2022.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Mānoa. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
       "postalCode": "96815",
@@ -68,7 +68,7 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii at Manoa",
+      "institution": "University of Hawaii at Mānoa",
       "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
       "startDate": "2018-09-01",
@@ -83,6 +83,32 @@
   ],
   "work": [
     {
+      "company": "UH Mānoa ICS Department",
+      "position": "Learning Assistant & Assisting Teaching Assistant for Computer Science",
+      "website": "https://natsci.manoa.hawaii.edu/learningemporium.php",
+      "startDate": "2019-08-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Teach lessons during recitation lab sessions (PowerPoint)",
+        "Tutor students taking computer science courses at UH Mānoa",
+        "Hold office hours to help students learn concepts"
+      ]
+    },
+    {
+      "company": "UH Mānoa Office of Admissions",
+      "position": "New Rainbow Warrior Orientation Leader",
+      "website": "https://manoa.hawaii.edu/welinamanoa/new-rainbow-warrior-orientation/",
+      "startDate": "2019-07-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Tour new students around campus while informing them of the opportunities available",
+        "Facilitate small group activities to foster education and friendship",
+        "Assist in running the @newrainbowwarriororientation Instagram page"
+      ]
+    },
+    {
       "company": "National Center for Women and Information Technology",
       "position": "IT Girls Program Leader & Founder",
       "website": "https://www.aspirations.org/user/103486",
@@ -96,32 +122,6 @@
       ]
     },
     {
-      "company": "UH Manoa ICS Department",
-      "position": "Learning Assistant & Assisting Teaching Assistant for Computer Science",
-      "website": "https://natsci.manoa.hawaii.edu/learningemporium.php",
-      "startDate": "2019-08-01",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Teach lessons during recitation lab sessions (PowerPoint)",
-        "Tutor students taking computer science courses at UH Mānoa",
-        "Hold office hours to help students learn concepts"
-      ]
-    },
-    {
-      "company": "UH Manoa Office of Admissions",
-      "position": "New Rainbow Warrior Orientation Leader",
-      "website": "https://manoa.hawaii.edu/welinamanoa/new-rainbow-warrior-orientation/",
-      "startDate": "2019-07-01",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Tour new students around campus while informing them of the opportunities available",
-        "Facilitate small group activities to foster education and friendship",
-        "Assist in running the @newrainbowwarriororientation Instagram page"
-      ]
-    },
-    {
       "company": "Patsy T. Mink Center for Business and Leadership",
       "position": "Website Editor & Graphic Designer",
       "website": "https://www.mcblhawaii.org/shop-small-hawaii",
@@ -130,12 +130,24 @@
       "summary": "",
       "highlights": [
         "Edited websites for the Patsy T. Mink Center for Business and Leadership (Squarespace)",
-        "Co-authored and created an e-book; designed informative notbook pages, flyers, and logos",
+        "Co-authored and created an e-book; designed informative notebook pages, flyers, and logos",
         "Assisted in running various Instagram and Facebook accounts for the company and its affiliates"
       ]
     }
   ],
   "volunteer": [
+    {
+      "organization": "Association for Computing Machinery - UH Mānoa",
+      "website": "https://acmanoa.github.io/",
+      "position": "Member",
+      "startDate": "2018-09-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "SWITCH-UHM: Promote women in IT thorough mentorship, workshops, and awareness",
+        "ACI: attend weekly meetings to develop my understanding of algorithms"
+      ]
+    },
     {
       "organization": "Artificial Intelligence Research Paper",
       "website": "",
@@ -150,18 +162,6 @@
       ]
     },
     {
-      "organization": "Association for Computing Machinery - UH Manoa",
-      "website": "https://acmanoa.github.io/",
-      "position": "Member",
-      "startDate": "2018-09-01",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "SWITCH-UHM: Promote women in IT thorough mentorship, workshops, and awareness",
-        "ACI: attend weekly meetings to develop my understanding of algorithms"
-      ]
-    },
-    {
       "organization": "YWCA O'ahu",
       "website": "https://www.mcblhawaii.org/girls-summityouth",
       "position": "Youth Program Leader",
@@ -169,19 +169,13 @@
       "endDate": "2018",
       "summary": "",
       "highlights": [
-        "Assisted in organizing YWCA's first Girls' Summmit Youth Program",
+        "Assisted in organizing YWCA's first Girls' Summit Youth Program",
         "Taught STEM and served as mentor to middle school girls",
         "Advocated against child abuse with the Scream. Run. Tell. organization"
       ]
     }
   ],
   "awards": [
-    {
-      "title": "National Honorable Mention for Aspirations in Computing",
-      "date": "2018",
-      "awarder": "National Center for Women and Information Technology",
-      "summary": "Hawaii Affiliate Award Winner: 2018, 2017"
-    },
     {
       "title": "Golden Key International Honor Society",
       "date": "2019",
@@ -200,17 +194,23 @@
       "awarder": "",
       "summary": "Honors high achievers and inspires them to live and lead with integrity while transforming the world in a positive way"
     },
-    {
-      "title": "Dean's List",
-      "date": "Fall 2018; Spring 2019; Fall 2019",
-      "awarder": "University of Hawaii at Manoa",
-      "summary": "GPA: 4.0"
-    },
      {
       "title": "Miss Teen Waikiki",
       "date": "2019",
       "awarder": "",
       "summary": "Pageantry Awards: Top Scholar; Spirit of Aloha (greatest community service impact);"
+    },
+    {
+      "title": "Dean's List",
+      "date": "Fall 2018; Spring 2019; Fall 2019",
+      "awarder": "University of Hawaii at Mānoa",
+      "summary": "GPA: 4.0"
+    },
+    {
+      "title": "National Honorable Mention for Aspirations in Computing",
+      "date": "2018",
+      "awarder": "National Center for Women and Information Technology",
+      "summary": "Hawaii Affiliate Award Winner: 2018, 2017"
     },
   ],
   "references": [
