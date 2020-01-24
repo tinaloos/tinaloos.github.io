@@ -11,10 +11,12 @@ labels:
 ---
 
 <img class="ui tiny left circular floated image" src="../images/blue.png">
+
 ## Aspire to be an IT Girl
 My interest in coding began in high school as an AspireIT peer-leader. I wanted to encourage others to create codes of fun that achieve simple tasks. By leading an afterschool coding camp that achieved creative animations, I was able to share my interest in coding with others. With every research and service project, I will enthusiastically devote my heart and time to aiding those in need and discovering new solutions to challenges.
 
 <img class="ui tiny left circular floated image" src="../images/hci.jpg">
+
 ## Modernizing Software
 The next step is to approach software engineering by combining theoretical and practical design and development strategies from engineering and computer science. Modeling design-based algorithms combined with data structures compose analytical and problem-solving procedures that enable the creation and maintenance of applications. Software engeering is a fascinating field of study that gives humanity tools to have their ideas come to life. Through this, websites and applications can be created to progress society forward. I am excited to develop my professional persona and learn how to implement computer-based systems. I am very interesting in learning how to code in different languages such as Java, JavaScript, HTML, and CSS. This allows programmers to be fluent in the typing languages. My appreciation for the arts correlates with how tools such as IntelliJ, Chrome Developer Tools, and LiveReload may be used when designing webpages. 
 
