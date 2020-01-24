@@ -33,7 +33,7 @@ The application lifecycle revolves around quality compliant design specification
 
 This quote motivates me to acquire the design and implementation skills necessary to achieve successful projects that solve real world problems.
 
-## function myFuture(softwareEngineering) {
+## My Future === Software Engineering
 As I continue my pursuit of a B.S. in Computer Science at the University of Hawaii at Manoa, I hope to obtain a plethora of skills and experiences that will allow me to ignite passion in future programmers while designing and developing software systems. 
 Q: What does the future have in code for me?
 A: Software Engineering
