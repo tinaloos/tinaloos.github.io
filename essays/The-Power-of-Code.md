@@ -10,7 +10,7 @@ labels:
   - Computer Science
 ---
 
-<img class="ui tiny left circular floated image" src="../images/blue.jpg">
+<img class="ui tiny left circular floated image" src="../images/blue.png">
 ## Aspire to be an IT Girl
 My interest in coding began in high school as an AspireIT peer-leader. I wanted to encourage others to create codes of fun that achieve simple tasks. By leading an afterschool coding camp that achieved creative animations, I was able to share my interest in coding with others. With every research and service project, I will enthusiastically devote my heart and time to aiding those in need and discovering new solutions to challenges.
 
