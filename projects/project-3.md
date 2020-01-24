@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/111.png
-title: Java Game: Turtle Run
+title: Java Game - Turtle Run
 permalink: projects/JavaGame
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-28
