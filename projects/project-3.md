@@ -36,5 +36,5 @@ Exit the game and run the program to play again.
 
 <hr>
 
-Source: <a href="https://github.com/tinaloos/ICS111"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/tinaloos/ICS-111-Final-Project"><i class="large github icon "></i>tinaloos/ics-111-java-game</a>
 
