@@ -14,7 +14,7 @@ labels:
 
 ## Is Your Question Smart?
 
-Smart questions are essential for software engineers to develop skills and become more enlightened with intelligence. The smartness of software engineers should reflect in their questions. According to Eric Raymond, in order for effective communication to exist within an open source community, certain guidelines must be followed. For example, questions should be precise, informative, and sent in accessible formats.  Software engineers should have refined problem-solving skills that will assist them when coding, debugging, and working on projects. 
+Smart questions are essential for software engineers to develop skills and become more enlightened with intelligence. The smartness of software engineers should reflect in their questions. According to Eric Raymond, in order for effective communication to exist within an open source community, certain guidelines must be followed. For example, questions should be precise, informative, and sent in accessible formats. Software engineers should have refined problem-solving skills that will assist them when coding, debugging, and working on projects. Asking questions the smart way is a vital craft. 
 
 ## How to Git the Answer You Need
 
@@ -45,4 +45,4 @@ In addition to the spelling, grammar, punctuation, and capitalization errors in 
 >*"If I had an hour to solve a problem and my life depended on the solution, I would spend the first 55 minutes determining the proper question to ask, for once I know the proper question, I could solve the problem in less than five minutes."*
 - Albert Einstein
 
-As a result of this experiment, I have learned the importance of asking questions the proper way, in order to gain key insight. People have a higher probability of getting their important questions answered, if the query is asked in a polite and insightful manner. When asking for help, one should assure that time of others is appreciated and not wasted. Therefore, smart software engineers ask smart questions that lead to smart solutions.  
+As a result of this experiment, I have learned the importance of asking questions the proper way, in order to gain key insight. People have a higher probability of getting their important questions answered, if the query is asked in a polite and insightful manner. When asking for help, one should assure that time of others is appreciated and not wasted. Knowledge is power, and this power can be used to apply programming concepts and utilize technology to make the world a better place. Therefore, smart software engineers ask smart questions that lead to smart solutions.  
