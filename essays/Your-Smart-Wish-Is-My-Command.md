@@ -14,13 +14,13 @@ labels:
 
 ## Is Your Question Smart?
 
-Smart questions are essential for software engineers to develop skills and become more enlightened with intelligence. The smartness of software engineers should reflect in their questions. According to Eric Raymond, in order for effective communication to exist within an open source community, certain guidelines must be followed. For example, questions should be precise, informative, and sent in accessible formats. Software engineers should have refined problem-solving skills that will assist them when coding, debugging, and working on projects. Asking questions the smart way is a vital craft. 
+Smart questions are essential for software engineers to develop skills and become more enlightened with intelligence. The smartness of software engineers should reflect in their questions. Eric Raymond, in order for effective communication to exist within an open source community, certain guidelines must be followed. For example, questions should be precise, informative, and sent in accessible formats. Software engineers should have refined problem-solving skills that will assist them when coding, debugging, and working on projects. Although one might be desperate for an urgent response, taking the time to carefully craft a question is fundamental. Asking questions the smart way is a vital technique that should be utilized by the masses. 
 
 ## How to Git the Answer You Need
 
 https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git
 
-In this example, the question being asked is: “I accidentally committed the wrong files to Git, but I haven't pushed the commit to the server yet. How can I undo those commits from the local repository?”. It received 20530 upvotes. It did not place blame on the application and is properly written. It shows crisp details of the process that the user went through. The question also provided more information by having a link to Git, in case someone reading the question was unaware of the usage of Git. Proper tags were also included. This increased the ease of a reply. 
+In this example, the question being asked is: “I accidentally committed the wrong files to Git, but I haven't pushed the commit to the server yet. How can I undo those commits from the local repository?”. It received 20530 upvotes. It did not place blame on the application and is properly written. It shows crisp details of the process that the user went through. The question also provided more information by having a link to Git, in case someone reading the question was unaware of the usage of the git configuration management system. Large amounts of code or data were not dumped onto the readers. The symptoms of the problem and goals of the inquiry were explicitly stated. Proper tags were also included. This increased the ease of a reply. 
 
 <img class="ui right floated image" src="../images/git.png">
 
