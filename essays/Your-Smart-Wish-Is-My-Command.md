@@ -31,7 +31,9 @@ The responses to this question provided great help to the developer in need. The
 https://stackoverflow.com/questions/24722329/im-new-to-programming-in-java-and-my-code-wont-work-any-tips-please
 
 Q: “i created this problem my self and i want this to work but it wont. can anyone please give me some advice?”
+
 A: “Debugger is there, and for free. Use it.”
+
 A: “You need to follow a tutorial first”
 
 In this scenario, the user provided the code that was being worked using the Java programming language. The user needed help to divide two large numbers. However, the question reveals that the user has slight knowledge of how to code or write in English. For example, the variable c that was used in multiple lines was never declared. The question was careless and sloppily written. 
