@@ -10,7 +10,7 @@ labels:
   - Smart Questions
 ---
 
-<img class="ui medium image" src="../images/gear.jpg">
+<img class="ui medium center image" src="../images/gear.jpg">
 
 ## Is Your Question Smart?
 
