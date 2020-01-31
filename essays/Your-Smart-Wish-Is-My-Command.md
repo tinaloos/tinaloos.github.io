@@ -10,7 +10,7 @@ labels:
   - Smart Questions
 ---
 
-<img class="ui medium center floated image" src="../images/gear.jpg">
+<img class="ui medium floated image" src="../images/gear.jpg">
 
 ## Is Your Question Smart?
 
@@ -36,7 +36,7 @@ A: “You need to follow a tutorial first”
 
 In this scenario, the user provided the code that was being worked using the Java programming language. The user needed help to divide two large numbers. However, the question reveals that the user has slight knowledge of how to code or write in English. For example, the variable c that was used in multiple lines was never declared. The question was careless and sloppily written. 
 
-<img class="ui medium left floated image" src="../images/no.png">
+<img class="ui left floated image" src="../images/no.png">
 
 In addition to the spelling, grammar, punctuation, and capitalization errors in the question, the person asking the question lacks knowledge of basic Java programming skills, such as adding a semicolon at the end of a declaration statement, properly placing curly brackets to compile with coding rules, and the difference between a string and an integer. The user was not professional in his writing and should have taken time to properly construct his sentences. Although the user showed some courtesy by using the word “please”, the question was not clear or precise. According to Eric Raymond, polite ambiguity is valued less than being technical and descriptive. Also, those who provided a solution were not thanked. The question may also be seen as a pointless query because it was asking for others to debug code without the type of problem. 
 
