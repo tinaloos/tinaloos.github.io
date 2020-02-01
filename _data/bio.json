@@ -52,6 +52,7 @@
         "Java",
         "C",
         "C++",
+        "Spanish", 
       ]
     },
     {
@@ -63,6 +64,7 @@
         "iOS",
         "LaTex",
         "Eclipse IDE",
+        "Office 365",
       ]
     }
   ],
@@ -90,13 +92,13 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Teach lessons during recitation lab sessions (PowerPoint)",
+        "Teach lessons during recitation lab sessions",
         "Tutor students taking computer science courses at UH Mānoa",
         "Hold office hours to help students learn concepts"
       ]
     },
     {
-      "company": "UH Mānoa Office of Admissions",
+      "company": "UH Mānoa Office of Student Affairs",
       "position": "New Rainbow Warrior Orientation Leader",
       "website": "https://manoa.hawaii.edu/welinamanoa/new-rainbow-warrior-orientation/",
       "startDate": "2019-07-01",
@@ -116,7 +118,7 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "$3000 grant recipient (funded by Intel, Northrop Grumman, and Google)",
+        "$3000 grant recipient",
         "Created and led my AspireIT K-12 Outreach Program to unite girls in STEM and close the gender gap",
         "Taught computer science to students in grades 5-8 (developed lesson plans and budgeted expenses)"
       ]
