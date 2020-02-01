@@ -13,7 +13,7 @@ labels:
 summary: A prototype design of a website for a non-profit organization that advocates against child abuse, personalized to the client's desires. 
 ---
 
-<img class="ui centered floated image" src="../images/srt.png">
+<img class="ui centered floated image" src="../images/srt.jpg">
 
 Scream. Run. Tell. is an organization that creates books and organizes workshops to teach children skills needed to protect themselves in times of danger. Through my volunteer work at the [YWCA O'ahu](https://www.mcblhawaii.org/girls-summityouth) and my STEM internship from [STEMworks](https://www.stemworkshawaii.org/), I was asked by the organization's CEO to re-design their website, in order to better reflect their values. The original website design was dark-themed and not colorful enough to showcase the personality of the organization. After learning about the mission and community impact of the company, I determined that the site needed to exhibit their public works while being more appealing to children, since that was the demographic of concern. The project I was tasked with was to update their social presence and means of spreading information on the web. 
 
