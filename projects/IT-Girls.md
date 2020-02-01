@@ -12,7 +12,7 @@ labels:
   - Computer Science
 summary: I created and led my AspireIT K-12 Outreach Program, teaching computer science to girls in grades 5-8.
 ---
-  <img class="ui medium image" src="../images/ncwit.png">
+  <img class="ui medium left image" src="../images/ncwit.png">
 
 For my Senior Project in High School, I conducted qualitative research on the applications of artificial intelligence and its ethicality in society. I examined a branch of computer science striving to simulate the intelligence and behavior of humans as it paves goals for machines to understand, analyze, and respond to human activity through the eyes of three professionals: two PhDs working in AI and a deep learning programming engineer. The results of interviews show that AI continues to evolve in human achievement tools in aerospace, cyber defense research, healthcare, and disparate data. With this knowledge, I desired to give back to the community by sharing my findings and passion for computer science with younger generations, in order to spark their interest in the technological sector. 
 
