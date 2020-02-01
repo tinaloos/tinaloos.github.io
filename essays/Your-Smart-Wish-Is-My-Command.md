@@ -18,7 +18,7 @@ Smart questions are essential for software engineers to develop skills and becom
 
 ## How to Git the Answer You Need
 
-[Smart example](https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git)
+[Smart Example](https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git)
 
 StackOverflow is a website where programmers ask questions and (hopefully) receive answers.
 In this example, the question being asked is: “I accidentally committed the wrong files to Git, but I haven't pushed the commit to the server yet. How can I undo those commits from the local repository?”. It received 20530 upvotes. It did not place blame on the application and is properly written. It shows crisp details of the process that the programmer went through. The question also provided more information by having a link to Git, in case someone reading the question was unaware of the usage of the git configuration management system. Large amounts of code or data were not dumped onto the readers. The symptoms of the problem and goals of the inquiry were explicitly stated. Proper tags were also included. Additionally, the header was specific and meaningful by stating the application of interest and the specific scenario of undoing the most recent commit on Git. This increased the ease of a reply. 
@@ -29,7 +29,7 @@ The responses to this question contributed substantial help to the developer in 
 
 ## Not So Smart  
 
-[example](https://stackoverflow.com/questions/24722329/im-new-to-programming-in-java-and-my-code-wont-work-any-tips-please)
+[Example](https://stackoverflow.com/questions/24722329/im-new-to-programming-in-java-and-my-code-wont-work-any-tips-please)
 
 Q: “i created this problem my self and i want this to work but it wont. can anyone please give me some advice?”
 
