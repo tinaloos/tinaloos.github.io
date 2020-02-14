@@ -10,7 +10,7 @@ labels:
   - IntelliJ IDEA
 ---
 
-<img class="ui small left spaced image" src="../images/check.png">
+<img class="ui small right spaced image" src="../images/check.png">
 ## Check for Success 
 
 ESLint is a code analysis and quality assurance tool that verifies that the programmer's code adheres to coding standards. After my first week of using ESLint with IntelliJ, I enjoy the satisfaction of seeing the green checkmark in the righthand corner of the screen and am motivated to write precise and clean code. I find it very helpful in insuring that my code is properly formatted. Software engineers are told the location of their error and are given a description that provides insight on how the mistake can be fixed. This makes is easier to locate and smash bugs. An example of an ESLint error is "ESLINT: Too many blank lines at the end of the file. Max of 0 allowed.(no-multiple-empty-lines)". Thus, when the user sees this, all they need to do is press delete (on Mac) on extra line to remove it. The green checkmark is not painful, but rather very useful. Without it, there could be stylistic errors in my code that are preventing it from running properly or being easily readable. This helps ensure that the implementation of the program will be successful. With the green checkmark comes accuracy and consistency. Without the green checkmark, I would not instantaneously know if my code is syntactically correct or not. Since ESLint is an automated tool, I am certainly able to write code that both the computer and humans can quickly and clearly understand.
