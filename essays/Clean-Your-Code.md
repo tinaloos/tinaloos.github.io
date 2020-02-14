@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Clean Your Code
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-23
+date: 2020-02-13
 labels:
   - ESLint
   - JavaScript
