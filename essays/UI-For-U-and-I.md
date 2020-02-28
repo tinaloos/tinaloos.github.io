@@ -9,7 +9,7 @@ labels:
   - Web Development
   - Software Engineering
 ---
-<img class="ui medium centered rounded image" src="../images/sem.jpg">
+<img class="ui large centered rounded image" src="../images/sem.jpg">
 
 ## Sematic UI Framework - It Works!
 
@@ -21,4 +21,4 @@ The Semantic UI (User-Interface) framework is complex. However, it allows the pr
 
 ## Powerful HTML and CSS
 
-Some may argue that there is an expenditure of time and difficulty that comes with Semantic UI. Despite this, I perceive it to be special and extremely useful, similar to a secret ingredient in a famous recipe. It adds pizazz and flair to the appearance of the site. There are numerous software engineering benefits of UI frameworks. Software engineers are given a toolset with numerous different mechanisms for each aspect of the site with documentation. Although it may be daunting to learn all of the different features of Semantic UI, it can be utilized to turn plain text into a fancy website. This common framework allows for the recognition of how code should run with a structure and template. JavaScript also functions in Semantic UI, such as with the use of dropdown. Mastering how to execute Semantic UI is powerful
+Some may argue that there is an expenditure of time and difficulty that comes with Semantic UI. Despite this, I perceive it to be special and extremely useful, similar to a secret ingredient in a famous recipe. It adds pizazz and flair to the appearance of the site. There are numerous software engineering benefits of UI frameworks. Software engineers are given a toolset with numerous different mechanisms for each aspect of the site with documentation. Although it may be daunting to learn all of the different features of Semantic UI, it can be utilized to turn plain text into a fancy website. This common framework allows for the recognition of how code should run with a structure and template. JavaScript also functions in Semantic UI, such as with the use of dropdown. Mastering how to execute Semantic UI is powerful in order to make an aesthetic, trendy, functional, and professional site. 
