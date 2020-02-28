@@ -23,6 +23,7 @@ The Semantic UI (User-Interface) framework is complex. However, it allows the pr
 
 Some may argue that there is an expenditure of time and difficulty that comes with Semantic UI. Despite this, I perceive it to be special and extremely useful, similar to a secret ingredient in a famous recipe. It adds pizazz and flair to the appearance of the site. There are numerous software engineering benefits of UI frameworks. Software engineers are given a toolset with numerous different mechanisms for each aspect of the site with documentation. Although it may be daunting to learn all of the different features of Semantic UI, it can be utilized to turn plain text into a fancy website. This common framework allows for the recognition of how code should run with a structure and template. JavaScript also functions in Semantic UI, such as with the use of dropdown. Semantic UI allows for the creation of automatically responsive sites that adapt to browser width while being mobile-friendly. Mastering how to execute Semantic UI is powerful in order to make an aesthetic, trendy, interactive modern, creative, functional, beautiful, and professional site. 
 
-“You’ve got to start with the customer experience and work back toward the technology - not the other way around” - Steve Jobs 
+>*"You’ve got to start with the customer experience and work back toward the technology - not the other way around."*
+-Steve Jobs 
 
 This quote depicts the significance of a properly implemented user interface so that anyone who visits the site will have a positive experience and appreciate the time that the programmer spent on formulating an exceptional website.
