@@ -9,7 +9,7 @@ labels:
   - Web Development
   - Software Engineering
 ---
-<img class="ui medium centered rounded image" src="../images/sem.jpg">
+<img class="ui large centered rounded image" src="../images/sem.jpg">
 
 ## Sematic UI Framework - It Works!
 
