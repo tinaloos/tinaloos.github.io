@@ -21,6 +21,7 @@ Students log in with their UH ID and once a profile is created, others can brows
 Users can specify what courses they are taking, areas of interest, and what current city they are currently working from. Users can add themselves into different groups based on their information and will be notified when important announcements occur. 
 Students can also set up notifications to find out new information automatically.
 Admins can monitor the site for inappropriate content, and create new categories.
+On the community news page, users can share updates on their life, as well as tips to have fun while on lockdown.
 
 Some possible mockup pages include:
 * Landing page
@@ -29,7 +30,7 @@ Some possible mockup pages include:
 * Student profile page
 * Calendar Page
 * Community News / Discussion Page
-* Browse users by courses, major, areas of interest, current city
+* Browse groups and users by courses, major, areas of interest, current city
 
 ## Use Case Ideas
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
