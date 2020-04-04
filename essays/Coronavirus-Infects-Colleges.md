@@ -9,7 +9,7 @@ labels:
   - COVID-19 Pandemic
   - Software Engineering
 ---
-<img class="ui large centered rounded image" src="../images/corona.png">
+<img class="ui extra large centered rounded image" src="../images/corona.png">
 
 ## COVID-19 Takes Over the World!
 
@@ -17,7 +17,7 @@ The world today is a scary and unprecedented place. The lives of everyone are at
 
 Over the past few weeks, my life has changed drastically. The virus came as a major disruption. As a college student, I enjoy physically attending classes and am used to being on campus for more than 12 hours on some days, even though I do not dorm. In terms of my daily routine, I used to attend classes every day starting at 8:30am in the morning with a jam-packed schedule of back-to-back work and classes for 8+ hours every school day of the week (except Monday), with at most a 15-minute break in between. I looked forward to meeting up with fellow classmates every Monday on campus to study at the library, grab food, socialize, and exercise at the Warrior Recreation Center. I am taking 6 classes this semester. In some, my course load has increased exponentially with new assignments, quizzes, readings, and lectures every day. However, I know that it has been a struggle for professors to change their style of teaching and move all resources online. Although I miss seeing my classmates and professors, it is in best practice that we take precautions. I still get ready for each day, as I hope that the virus does not infect any of us.
 
-<img class="ui small left rounded image" src="../images/zoom.png">
+<img class="ui small left spaced" src="../images/zoom.png">
 ## Ok, Zoomer
 
 In order to continue the flow of education via learning, many of my courses are using Zoom to meet during lecture times or for office hours. Additionally, I use Zoom to assist ICS students during my job as a Learning Assistant for ICS 141 and a UH Manoa College of Natural Sciences ICS tutor for students taking computer science courses. I find this application really effective and fun to use. I enjoy having the ability to gain knowledge through this distance learning environment. Additionally, it helps me feel connected to my peers and teachers while true face-to-face interaction is not a current possibility. Zoom also has neat features such virtual backgrounds, controlled screensharing, and chat rooms. It is nice to see that collaboration and unity is still promoted through this lockdown. 
