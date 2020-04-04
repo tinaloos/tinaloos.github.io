@@ -11,7 +11,7 @@ labels:
 ---
 <img class="ui large centered rounded image" src="../images/corona.png">
 
-## COVID-19 Takes Over the World
+## COVID-19 Takes Over the World!
 
 The world today is a scary and unprecedented place. The lives of everyone are at stake as a new disease - coronavirus aka COVID-19 - takes the world by storm. Millions of lives have been impacted in the worst ways possible. Without a proven vaccine available, many are on the front line trying to help patients in any way possible. Numerous events have been canceled, including at the University of Hawaii. On March 18, 2020, all courses were moved to an online format for the remainder of the semester and into the first summer session. This was mandated in order to prevent the spread of the virus and to practice social distancing. 
 
