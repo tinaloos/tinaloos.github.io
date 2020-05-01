@@ -16,5 +16,3 @@ Design Patterns are solutions to problems that software engineers repeatedly enc
 
 ## The How To...
 Design patterns require a name, program description of when it is applicable, solution description of the relationships, and well as the consequences of implementing the pattern. Types of object oriented design patterns include creational, structural, and behavorial. Since they are solutions to classic problems, design patterns appear in many facets such as software processing, testing, architecture, may be specific to each programming language, user interfaces, databases, and real-time systems. The four most prominent design patterns are: factory, singleton, observor, and model-view-controller. 
-
-##
