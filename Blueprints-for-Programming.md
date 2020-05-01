@@ -9,7 +9,7 @@ labels:
   - Design Patterns
   - Software Engineering
 ---
-<img class="ui medium center floated rounded image" src="../images/dp.png"> 
+<img class="ui medium centered rounded image" src="../images/dp.png"> 
 
 ## The Path to Coding Success
 
