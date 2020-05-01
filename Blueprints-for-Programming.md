@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Blueprints for Programming
 # All dates must be YYYY-MM-DD format!
-date: 2020-04-23
+date: 2020-04-30
 labels:
   - Coding
   - Design Patterns
