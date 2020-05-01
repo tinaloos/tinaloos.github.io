@@ -9,8 +9,8 @@ labels:
   - Design Patterns
   - Software Engineering
 ---
-## The Path to Coding Success
 <img class="ui medium center floated rounded image" src="../images/dp.png"> 
+## The Path to Coding Success
 
 Design Patterns are solutions to problems that software engineers repeatedly encounter. Such solutions can be recycyled and reused multiple times in various situations. They can be interpreted and implemented in ways that they never exactly repeat. Design Patterns help new programmers to learn by example from the ways of the professionals. Design patterns are like shoes. You may have multiple types of shoes, such as sneakers, slippers, heels, boots, or crocs, but they all serve the same function of providing protection and comfort to the human foot. Each shoe has its special purpose as well and are used to aid in different situations. Design patterns are practical and have many advantages. Prior to the acceptance of a design pattern, skilled programmers go through trail and error to discover the best way to show relationships between classes in object oritented programming and to describe interactions between objects.
 
