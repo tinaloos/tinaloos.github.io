@@ -1,15 +1,3 @@
----
-layout: essay
-type: essay
-title: Clean Your Code
-# All dates must be YYYY-MM-DD format!
-date: 2020-02-13
-labels:
-  - ESLint
-  - JavaScript
-  - IntelliJ IDEA
----
-
 <img class="ui small left spaced image" src="../images/check.png">
 ## Check for Success 
 
