@@ -1,5 +1,4 @@
 ## Project: UH Connnected
-
 ## Overview
 *The problem:* The Covid-19 pandemic has pushed all courses in the UH system, and nationally, to use an online format of learning in order to prevent the spread of disease and flatten the curve. Although this is essential for the health and safety of students, it is also important for the community to remain connected to remain productive and vigilant while fighting the repercussions of the coronavirus. In some courses, there is no easy way for students and professors to easily have a constant means of group communication with one another (other than email). Thus, they cannot experience full support outside of the classroom. 
 
