@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Level 314: Completed
+title: Level 314 - Completed
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-14
 labels:
