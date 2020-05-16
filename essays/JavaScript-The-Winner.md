@@ -1,14 +1,4 @@
----
-layout: essay
-type: essay
-title: JavaScript - The Winner
-# All dates must be YYYY-MM-DD format!
-date: 2020-01-23
-labels:
-  - Engineering
-  - JavaScript
-  - Java
----
+
 
 <img class="ui medium spaced image" src="../images/js.png">
 ## Java vs JavaScript
