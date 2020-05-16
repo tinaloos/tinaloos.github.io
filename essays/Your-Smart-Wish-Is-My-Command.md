@@ -1,15 +1,3 @@
----
-layout: essay
-type: essay
-title: Your (Smart) Wish Is My Command
-# All dates must be YYYY-MM-DD format!
-date: 2020-01-30
-labels:
-  - Software Engineering
-  - StackOverflow
-  - Smart Questions
----
-
 <img class="ui medium center image" src="../images/gear.jpg">
 
 ## Is Your Question Smart?
