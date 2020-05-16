@@ -1,17 +1,3 @@
----
-layout: project
-type: project
-image: images/111.png
-title: Java Game - Turtle Run
-permalink: projects/JavaGame
-# All dates must be YYYY-MM-DD format!
-date: 2018-07-28
-labels:
-  - Java
-  - Eclipse IDE
-  - Game Development
-summary: A game I developed in a group with two other team members in ICS 111, using Java.
----
 
 <img class="ui medium image" src="{{ site.baseurl }}/images/111.png">
 
