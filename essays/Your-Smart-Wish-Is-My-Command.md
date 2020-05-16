@@ -1,7 +1,6 @@
 <img class="ui medium center image" src="../images/gear.jpg">
 
 ## Is Your Question Smart?
-
 Smart questions are essential for software engineers to develop skills and become more enlightened with intelligence. The smartness of software engineers should reflect in their questions. After reading Eric Raymond’s essay on how to ask questions the smart way, I learned that in order for effective communication to exist within an open source community, certain guidelines must be followed. For example, questions should be precise, informative, and sent in accessible formats. Software engineers should develop refined problem-solving skills that will assist them when coding, debugging, and working on projects. Although one might be desperate for an urgent response, taking the time to carefully craft a question is fundamental. Programmers should not fear asking questions, because with every questioned answered, more comprehension is gained. Asking questions in a smart approach is a vital technique that should be utilized by the masses. 
 
 ## How to Git the Answer You Need
