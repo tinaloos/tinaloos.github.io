@@ -1,14 +1,3 @@
----
-layout: essay
-type: essay
-title: Coronavirus Infects Colleges
-# All dates must be YYYY-MM-DD format!
-date: 2020-04-03
-labels:
-  - Online Learning
-  - COVID-19 Pandemic
-  - Software Engineering
----
 <img class="ui huge centered rounded image" src="../images/corona.png">
 
 ## COVID-19 Takes Over the World!
