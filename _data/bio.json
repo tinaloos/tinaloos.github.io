@@ -29,12 +29,12 @@
   },
   "interests": [
     {
-      "name": "Software Engineering",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Cognitive Science",
       "keywords": [
       ]
     },
@@ -55,6 +55,9 @@
         "C++",
         "CSS",
         "HTML",
+        "SQL",
+        "Assembly Language (ASM)",
+        "Python",
         "Semantic UI",
         "Spanish", 
       ]
@@ -72,7 +75,8 @@
         "ReactJs",
         "MongoDB",
         "Office 365",
-        "Git",
+        "Wireshark",
+        "Git/GitHub",
       ]
     }
   ],
@@ -86,8 +90,13 @@
       "gpa": "4.0",
       "courses": [
         "ICS 311: Algorithms",
+        "ICS 312: Machine-Level and Systems Programming",
         "ICS 314: Software Engineering I",
+        "ICS 321: Database Systems",
+        "ICS 332: Operating Systems",
         "ICS 390: Computing Ethics for Lab Assistants",
+        "ICS 451: Data Networks",
+        "ICS 469 Cognitive Science",
       ]
     }
   ],
