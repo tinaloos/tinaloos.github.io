@@ -6,10 +6,10 @@
     "email": "tinaloos@hawaii.edu",
     "phone": "",
     "website": "https://tinaloos.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Mānoa. I expect to graduate in Spring, 2022.",
+    "summary": "B.S. in Computer Science '22 and J.D. in Law from University of Hawaii at Mānoa.",
     "location": {
       "address": "",
-      "postalCode": "96815",
+      "postalCode": "96813",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "Cyber Security",
+      "name": "Law",
       "keywords": [
       ]
     }
@@ -83,10 +83,10 @@
   "education": [
     {
       "institution": "University of Hawaii at Mānoa",
-      "area": "Computer Science (expected Spring, 2022)",
-      "studyType": "B.S.",
+      "area": "Computer Science '22 and Law '25",
+      "studyType": "B.S. and J.D.",
       "startDate": "2018-09-01",
-      "endDate": "Present",
+      "endDate": "2025-05-18",
       "gpa": "4.0",
       "courses": [
         "ICS 311: Algorithms",
